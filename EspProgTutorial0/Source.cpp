@@ -125,7 +125,7 @@ int main()
 		std::cout << count_1 << " " << count_2;
 	}
 
-	std::string str{ "U Panamericana" };
+	//std::string str{ "U Panamericana" };
 	for (char c : str) 
 	{
 		std::cout << "(" << c << ")";
